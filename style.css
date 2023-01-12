@@ -28,10 +28,14 @@
   text-align:center;
   opacity: 0;
   transition: opacity 1.4s ease;
+  
+  
+  
 }
 .owl-item.center > div .text_effect{
   
-  opacity: 1;
+  opacity: 0.99;
+  
 }
 .owl-item > div .ytext_effect{
   height: 50px;
